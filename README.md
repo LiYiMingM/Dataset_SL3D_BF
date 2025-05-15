@@ -147,5 +147,6 @@ SL3D-BF has been benchmarked with SOTA methods (UNet, ResNet variants, etc.) on 
     <td class="red-text">0.0093</td>
   </tr>
 </table>
+
 ![image-20250515165746020](./images/image-20250515165746020.png)
 
