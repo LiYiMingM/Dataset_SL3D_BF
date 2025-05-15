@@ -29,7 +29,7 @@ The dataset was captured using a high-precision single-camera, single-projector 
 
 ## How to Use/Access the Dataset
 
-Dataset link: [https://github.com/LiYiMingM/Dataset_SL3D_BF](https://github.com/LiYiMingM/Dataset_SL3D_BF)
+Dataset link: https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/
 
 ## Benchmark Performance
 
