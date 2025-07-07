@@ -31,9 +31,11 @@ The dataset was captured using a high-precision single-camera, single-projector 
 
 Dataset link: https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/
 
-If you have any questions or suggestions, feel free to reach out via email.
-Contact Email：
-lemonymtree@163.com
+
+If you have any questions or suggestions, feel free to reach out via email.  
+
+Contact Email：  
+lemonymtree@163.com  
 li.xinghui@sz.tsinghua.edu.cn
 
 
@@ -155,10 +157,13 @@ SL3D-BF has been benchmarked with SOTA methods (UNet, ResNet variants, etc.) on 
   </tr>
 </table>
 
-![image-20250515165746020](./images/image-20250515165746020.png)
-## Citation Format
 
-When publishing results using this dataset, please cite the following work:
+## How to Cite
+
+Please cite this paper when using the SL3D-BF dataset:
+
+```bibtex
+
 @article{li2025sl3d,
   title={SL3D-BF: A Real-World Structured Light 3D Dataset with Background-to-Foreground Enhancement},
   author={Li, Yiming and Chen, Weikang and Li, Zinan and Zhang, Chaobo and Wang, Xiaohao and Gui, Weihua and Gao, Wen and Liang, Xiaojun and Li, Xinghui},
@@ -175,7 +180,7 @@ When publishing results using this dataset, please cite the following work:
   publisher={IEEE}
 }
 
-
+```
 
 ## License
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
