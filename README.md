@@ -156,7 +156,7 @@ SL3D-BF has been benchmarked with SOTA methods (UNet, ResNet variants, etc.) on 
 </table>
 
 ![image-20250515165746020](./images/image-20250515165746020.png)
-##Citation Format
+## Citation Format
 
 When publishing results using this dataset, please cite the following work:
 @article{li2025sl3d,
@@ -174,7 +174,7 @@ When publishing results using this dataset, please cite the following work:
   year={2025},
   publisher={IEEE}
 }
-![image](https://github.com/user-attachments/assets/b2785e4e-fc83-4241-b3ec-6fc7ce25dced)
+
 
 
 ## License
