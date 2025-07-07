@@ -31,6 +31,13 @@ The dataset was captured using a high-precision single-camera, single-projector 
 
 Dataset link: https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/
 
+If you have any questions or suggestions, feel free to reach out via email.
+Contact Email：
+lemonymtree@163.com
+li.xinghui@sz.tsinghua.edu.cn
+
+
+
 ## Benchmark Performance
 
 SL3D-BF has been benchmarked with SOTA methods (UNet, ResNet variants, etc.) on SF-AP and SF-4ND pipelines.
@@ -149,6 +156,25 @@ SL3D-BF has been benchmarked with SOTA methods (UNet, ResNet variants, etc.) on 
 </table>
 
 ![image-20250515165746020](./images/image-20250515165746020.png)
+##Citation Format
+
+When publishing results using this dataset, please cite the following work:
+@article{li2025sl3d,
+  title={SL3D-BF: A Real-World Structured Light 3D Dataset with Background-to-Foreground Enhancement},
+  author={Li, Yiming and Chen, Weikang and Li, Zinan and Zhang, Chaobo and Wang, Xiaohao and Gui, Weihua and Gao, Wen and Liang, Xiaojun and Li, Xinghui},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
+}
+
+@article{li2025reliable,
+  title={Reliable 3D Reconstruction with Single-Shot Digital Grating and Physical Model-Supervised Machine Learning},
+  author={Li, Yiming and Li, Zinan and Chen, Weikang and Zhang, Chaobo and Wang, Hao and Wang, Xiaohao and Gui, Weihua and Gao, Wen and Liang, Xiaojun and Li, Xinghui},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2025},
+  publisher={IEEE}
+}
+![image](https://github.com/user-attachments/assets/b2785e4e-fc83-4241-b3ec-6fc7ce25dced)
 
 
 ## License
